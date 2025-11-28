@@ -1,0 +1,13 @@
+name = "Meowzers"
+filename = "meowzers-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFM8Fhh6/versions/UBo2jeEg/meowzers-1.0.jar"
+hash-format = "sha512"
+hash = "a2cf41710b3cebfaa037a3c6f0d439b22be520868993b472775733a9891dff43dac03537bb18a0d4ecded4871caf78a79f5016058778a34512aca92e82e2a43c"
+
+[update]
+[update.modrinth]
+mod-id = "fFM8Fhh6"
+version = "UBo2jeEg"

@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc1.21.1-v21.1.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/3DOm8Jt5/fish_of_thieves-mc1.21.1-v21.1.0.0-neoforge.jar"
+hash-format = "sha512"
+hash = "f76011df77f962f7bb01b2f433b545c93dfa5a43706a1281ecf06e3994d706dfb761399a0817c6b9dbfe74f66fac38c699bd8fb97414c9ee46895d9362b436fc"
+
+[update]
+[update.modrinth]
+mod-id = "BzOTnuqM"
+version = "3DOm8Jt5"

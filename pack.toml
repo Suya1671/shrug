@@ -1,0 +1,15 @@
+name = "Shrug"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0e58be01232596ea9d19617dc2b2988ff2e107b115c8089a8bf1481930b8a9a1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"
+
+[options]
+acceptable-game-versions = ["1.21"]

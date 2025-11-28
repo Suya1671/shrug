@@ -1,0 +1,13 @@
+name = "UnstripLog"
+filename = "unstriplog-1.0.3-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZGPVDCNi/versions/Xk8Y4t6q/unstriplog-1.0.3-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "524dec2f6f3ca87402876311b3814b635c9d0679cd84004a4c2a2f65f32632304c49edf3a363aa7f734b9274e7ff4c16142fb89e322b2714d8dc6a5e81fee7b9"
+
+[update]
+[update.modrinth]
+mod-id = "ZGPVDCNi"
+version = "Xk8Y4t6q"
