@@ -506,6 +506,11 @@ hash = "cae96aafa6cb54ff483c2a518178a805c9209d4ac8c464dda2c7a58da974741e"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/stellarity.pw.toml"
 hash = "9288e817fa486befd5311f40dabd1e48bd75902e3fcf46668d065a60a47b39e0"
 metafile = true
