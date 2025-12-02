@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
+hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "fe0bd7932e6989adcdbec64876a9d9d1dc9483cd0e44034c23e431e163f50492"
+hash = "284ca826ef19ddb98b11902a981054281ddec19ef9d106905f5a880d6812a0fd"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "e0c6efbd8caff81fd9acd75320edd1ac733e36d999d9edac8fbabd76c7fa7e4e"
+hash = "6fd90852b6ead79c97884af2c8cc3ea5fa85bba19791dbf5776a70d26c290cb2"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ce48a82508562aff1f7fe3551c9800b445aac9ea9aecd9381754e936b17dce2c"
+hash = "5d49dd7272a1418fabed10e3ef9b5c79c3bbb9205d83e79e301c16ad0a0e89e6"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
+hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
 metafile = true
 
 [[files]]
