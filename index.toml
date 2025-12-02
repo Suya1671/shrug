@@ -456,6 +456,11 @@ hash = "f9b03a8d6466455294d823b23712e43bb9f26cb621d27b6134c150cf64cd671b"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5052765d3a56ee165b0ed0e4004617b80dd5950968a73fe4956c3e2d99b279e2"
 metafile = true
