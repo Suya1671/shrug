@@ -181,6 +181,11 @@ hash = "d65a013fc6ad1b6e1470e05c9efe7825e988b47415a033fef6d9b91474b488cb"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
@@ -346,6 +351,11 @@ hash = "5d49dd7272a1418fabed10e3ef9b5c79c3bbb9205d83e79e301c16ad0a0e89e6"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "cc903c56f854019dc420ab9a088e1a3a328e7839291aafae038f37005e59988e"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f199fe36b913131dfa2d31ec4a03186aa00be227f7fe2e34c4c3064b8601bb99"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "1a4a4cb11e70c5b82f3b3d2180f6055babf86a04c9a45f0d3a2e89239f44ca08"
 metafile = true
 
 [[files]]
