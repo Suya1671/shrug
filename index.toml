@@ -31,6 +31,11 @@ hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "4dac3194a234f244f6b9c754053758d7af758535f50c1a347ff6d0fd05bd94e6"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
@@ -318,6 +323,16 @@ metafile = true
 [[files]]
 file = "mods/gnetum.pw.toml"
 hash = "284ca826ef19ddb98b11902a981054281ddec19ef9d106905f5a880d6812a0fd"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "6f022dbbf895991f40dfe631d036d3388abb0af82fa0e95102b9ec33ffd52cdc"
 metafile = true
 
 [[files]]
