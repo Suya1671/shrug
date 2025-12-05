@@ -351,6 +351,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "6fd90852b6ead79c97884af2c8cc3ea5fa85bba19791dbf5776a70d26c290cb2"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/packwiz-server-updater.pw.toml"
 hash = "90397481159d6f8c13f811b930a4020c7e24c62e35e3cc3596164d312fb0372c"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
