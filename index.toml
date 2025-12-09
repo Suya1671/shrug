@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "4dac3194a234f244f6b9c754053758d7af758535f50c1a347ff6d0fd05bd94e6"
+hash = "eb18077ff7778791930eb5817b933cdb0181f14b99c76f6d2d82a308945999a6"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "6f022dbbf895991f40dfe631d036d3388abb0af82fa0e95102b9ec33ffd52cdc"
+hash = "571e5c231d603f2fde429cee44d1ca3cff75e37696a950c24c3de8cdc370260c"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+hash = "2b82c0190fa72dd9f82e4a596d48f24984d5a367e07a32cbd3c838825798e978"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
+hash = "49eff108ef7775e25ed8050497c533ad57b6d13b905f44d4d2ec0fe75841886a"
 metafile = true
 
 [[files]]
