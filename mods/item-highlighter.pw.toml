@@ -2,6 +2,10 @@ name = "Item Highlighter"
 filename = "Highlighter-1.21-neoforge-1.1.11.jar"
 side = "client"
 
+[option]
+optional = true
+description = "Highlights a new item you pick up with a star in the inventory slot. Useful to see what breaking a block actually gave you"
+
 [download]
 url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/AsQ0Y2G9/Highlighter-1.21-neoforge-1.1.11.jar"
 hash-format = "sha512"
